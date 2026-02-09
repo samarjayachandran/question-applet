@@ -1,7 +1,4 @@
 import streamlit as st
-import os
-
-os.chdir("/Users/samarjayachandran/Desktop/Wack Coding")
 
 st.set_page_config(page_title="Malheureusement le mieux que je peux faire")
 
